@@ -1,0 +1,10 @@
+! name: Surface Smaller Medical Sites
+! description: Rerank results to remove mainstream medical, Pharma, sites.
+! public: private
+! author: filtering-and-accountability
+
+$discard,site=mayoclinic.org
+$discard,site=webmd.com
+$discard,site=cancer.gov
+$discard,site=rush.edu
+$discard,site=hsph.harvard.edu
