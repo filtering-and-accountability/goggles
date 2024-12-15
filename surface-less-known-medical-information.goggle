@@ -8,3 +8,5 @@ $discard,site=webmd.com
 $discard,site=cancer.gov
 $discard,site=rush.edu
 $discard,site=hsph.harvard.edu
+$discard,site=pmc.ncbi.nlm.nih.gov
+$discard,site=pubmed.ncbi.nlm.nih.gov
